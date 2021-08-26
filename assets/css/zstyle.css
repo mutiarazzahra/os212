@@ -11,7 +11,165 @@
 
 /* See https://www.w3schools.com/colors/colors_hsl.asp              */
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
+.plainclass1 {
+  color:            hsl(0, 100%, 100%);
+  background-color: hsl(0, 10%, 10%);
+  line-height:      120%;
+  font-family:      monospace,courier;
+}
 
+.plainclass1 li {
+  line-height:      140%;
+}
+
+.plainclass1 h1 {
+  color:            hsl(100, 50%, 50%);
+}
+
+.plainclass1 h2 {
+  color:            hsl(100, 50%, 50%);
+}
+
+.plainclass1 h3 {
+  color:            hsl(100, 50%, 50%);
+}
+
+.container {
+  max-width:    70%;
+  margin:       0 auto;
+  font-size:    1em;
+  text-align:   justify;
+}
+
+.container a {
+  color: #a0a0a0;
+}
+
+.container a:hover {
+  color: #f0f0f0;
+}
+
+.row {
+}
+
+.column {
+  float:            left;
+  display:          inline-block;
+  background:       #808080;
+  height:           130px;
+  width:            100%;
+  padding-top:      10px;
+  padding-bottom:   10px;
+  padding-left:     10px;
+  padding-right:    10px;
+  text-align:       left;
+}
+
+.left {
+  width:            130px;
+}
+
+.right1 {
+  height:           66px;
+  width:            calc(100% - 200px);
+  padding-top:      24px;
+  padding-bottom:   0px;
+  padding-left:     30px;
+  font-size:        1.9em;
+  font-weight:      bold;
+}
+
+.right2 {
+  height:           50px;
+  width:            calc(100% - 200px);
+  padding-top:      5px;
+  padding-bottom:   5px;
+  padding-left:     30px;
+  font-size:        1.3em;
+  font-weight:      bold;
+}
+}
+
+.youtube {
+  float:            left;
+  display:          inline-block;
+  height:           150px;
+  width:            100%;
+  padding-top:      10px;
+  padding-bottom:   10px;
+  padding-left:     10px;
+  padding-right:    10px;
+}
+
+.yvideo {
+  width:            25%;
+  height:           100%;
+  padding-top:      0px;
+  padding-bottom:   0px;
+  padding-left:     0px;
+  padding-right:    0px;
+}
+
+.yinfo {
+  width:            calc(75%  - 30px);
+  height:           calc(100% - 20px);
+  padding-top:      10px;
+  padding-bottom:   10px;
+  padding-left:     10px;
+  padding-right:    10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.navbar {
+  background-color: #101010;
+  color:            #FFFFFF;
+  font-size:        0.8em;
+}
+
+.navbar ul li {
+  display:        inline-block;
+  padding:        1px;
+  padding-top:    10px;
+  padding-bottom: 10px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  background:       blue;
+  color:            #CCCCCC;
+  font-size:        1.2em;
+  font-weight:      bold;
+}
+
+pre {
+  border:        3px solid rgba(255, 255, 255, 0.15);
+  padding:       10px; 
+  color:         #b5e853;
+  border-radius: 2px;
+}
+
+table {
+  width: 100%;
+  margin: 0 0 20px 0;
+}
+
+th {
+  text-align: left;
+  border-bottom: 1px dashed #b5e853;
+  padding: 5px 10px;
+}
+
+td {
+  padding: 5px 10px;
+}
 
 /*
   ZCZC

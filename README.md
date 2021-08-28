@@ -10,4 +10,4 @@ Let's learn operating system together!
 
 [My GH](https://github.com/mutiarazzahra)
 
-[My Log](https://mutiarazzahra/os212/TXT/mylog.txt)
+[My Log](https://mutiarazzahra.github.io/os212/TXT/mylog.txt)

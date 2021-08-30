@@ -3,3 +3,4 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 05 L03 GitHub related
 ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 20 L10 Assignment #00

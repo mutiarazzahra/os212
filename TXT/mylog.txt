@@ -5,3 +5,4 @@ ZCZC W00 05 L03 GitHub related
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 30 L10 Assignment #00
 ZCZC W00 30 L99 Watching Paralympic Games
+ZCZC W00 10 L01 SCELE/Discord related

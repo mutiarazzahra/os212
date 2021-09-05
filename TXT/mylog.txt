@@ -8,3 +8,4 @@ ZCZC W00 30 L80 Watching Paralympic Games
 ZCZC W00 10 L01 SCELE/Discord related
 ZCZC W00 07 L06 os00 slide related
 ZCZC W00 30 L70 Studying for other courses
+ZCZC W00 30 L06 Operating System Concepts Book related 

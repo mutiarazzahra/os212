@@ -11,7 +11,6 @@ I’m an undergraduate Computer Science student at the University of Indonesia.
 Let's learn operating system together!
 
 ---
-```bash
-  *Revision: 12 Sep 2021* 
-```
+*Revision: 12 Sep 2021* 
+
 

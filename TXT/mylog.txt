@@ -15,7 +15,7 @@ ZCZC W00 30 L70 Studying for other courses
 ZCZC W00 30 L06 Operating System Concepts Book related 
 ZCZC W01 05 L22 Quiz
 ZCZC W01 100 L02 ZOOM meetings related
-ZCZC W01 07 L06 os00 slide related
+ZCZC W01 07 L06 os01 slide related
 ZCZC W01 10 L11 Assignment #01
 ZCZC W01 20 L12 Assignment #02
 ZCZC W01 20 L13 Assignment #03
@@ -30,3 +30,7 @@ ZCZC W01 10 L03 GitHub related
 ZCZC W01 10 L32 YouTube: how to write markdown
 ZCZC W01 10 L06 GSGS related
 ZCZC W01 30 L82 Reading online novel
+ZCZC W02 20 L22 Quiz
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 30 L06 os02 slide related
+

@@ -48,5 +48,8 @@ ZCZC W02 30 L09 Assignment in General
 ZCZC W02 15 L03 GitHub related
 ZCZC W02 40 L70 Studying for other courses.
 ZCZC W02 10 L01 SCELE/Discord related
-
-
+ZCZC W03 20 L22 Quiz
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 30 L06 os03 slide related
+ZCZC W03 10 L01 SCELE/Discord related
+ZCZC W03 07 L21 Trying something

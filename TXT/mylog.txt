@@ -53,3 +53,15 @@ ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 30 L06 os03 slide related
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 07 L21 Trying something
+ZCZC W03 30 L11 Assignment #01
+ZCZC W03 20 L12 Assignment #02
+ZCZC W03 10 L13 Assignment #03
+ZCZC W03 07 L14 Assignment #04
+ZCZC W03 50 L15 Assignment #05
+ZCZC W03 10 L16 Assignment #06
+ZCZC W03 07 L17 Assignment #07
+ZCZC W03 10 L18 Assignment #08
+ZCZC W03 07 L19 Assignment #09
+ZCZC W03 30 L06 GSGS related
+ZCZC W03 L99 Fixing computer problem
+ZCZC W03 10 L03 GitHub related

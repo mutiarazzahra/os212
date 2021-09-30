@@ -66,3 +66,17 @@ ZCZC W03 30 L06 GSGS related
 ZCZC W03 30 L99 Fixing computer problem
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 15 L64 Helping OS related problem to a friend.
+ZCZC W04 20 L22 Quiz
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 30 L06 os04 slide related
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 30 L11 Assignment #01
+ZCZC W04 20 L12 Assignment #02
+ZCZC W04 20 L13 Assignment #03
+ZCZC W04 07 L14 Assignment #04
+ZCZC W04 40 L15 Assignment #05
+ZCZC W04 30 L16 Assignment #06
+ZCZC W04 07 L17 Assignment #07
+ZCZC W04 10 L18 Assignment #08
+ZCZC W04 07 L19 Assignment #09

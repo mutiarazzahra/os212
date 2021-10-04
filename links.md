@@ -16,3 +16,6 @@ permalink: /LINKS/
 
 4. [C-Language Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)<br>
    Playlist tersebut berisi pembelajaran C-Language dari basics. Playlist yang dibuat oleh Neso Academy ini, menurut saya cukup lengkap. Kita bisa mencari apa yang ingin kita        pelajari dari C-Language Programming. 
+   
+5. [Pointers in C / C++](https://youtu.be/zuegQmMdy8M)<br>
+   Video pada link di atas menjelaskan mengenai pointer dalam C-Language. Menurut saya penjelasan pada video tersebut mudah dimengerti karena dilengkapi dengan ilustrasi dan demo    kodenya. Adanya timestamp untuk memberitahu konten yang ada di dalam video, membuat penonton tidak perlu pusing lagi untuk mencari-cari penjelasan materi yang mereka butuhkan.

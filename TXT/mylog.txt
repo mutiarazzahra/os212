@@ -81,4 +81,5 @@ ZCZC W04 07 L17 Assignment #07
 ZCZC W04 10 L18 Assignment #08
 ZCZC W04 07 L19 Assignment #09
 ZCZC W04 20 L32 YouTube: looking for material related to os
-ZCZC W03 15 L06 GSGS related: looking for solutions to problems related to os
+ZCZC W04 15 L06 GSGS related: looking for solutions to problems related to os
+ZCZC W05 20 L22 Quiz

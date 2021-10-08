@@ -19,3 +19,9 @@ permalink: /LINKS/
    
 5. [Pointers in C / C++](https://youtu.be/zuegQmMdy8M)<br>
    Video pada link di atas menjelaskan mengenai pointer dalam C-Language. Menurut saya penjelasan pada video tersebut mudah dimengerti karena dilengkapi dengan ilustrasi dan demo    kodenya. Adanya timestamp untuk memberitahu konten yang ada di dalam video, membuat penonton tidak perlu pusing lagi untuk mencari-cari penjelasan materi yang mereka butuhkan.
+
+6. [A Guide to the Linux “Top” Command](https://www.booleanworld.com/guide-linux-top-command/)<br>
+   Website tersebut berisi panduan penggunaan command "top" dengan berbagai kegunaannya. Menurut saya, penjelasan dalam web tersebut cukup lengkap dengan disertai gambar yang        memudahkan pemula untuk mempelajarinya. 
+   
+7. [How to Use the Linux top Command](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)<br>
+   Sama seperti Website pada nomor 6, Website di atas berisi panduan penggunaan command "top". Namun, menurut saya yang membedakan adalah Website ini penjelasannya lebih singkat      dan lebih banyak disertai gambar. Sehingga lebih nyaman untuk dibaca dan langsung dipraktekkan.

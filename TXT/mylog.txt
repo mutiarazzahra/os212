@@ -83,3 +83,12 @@ ZCZC W04 07 L19 Assignment #09
 ZCZC W04 20 L32 YouTube: looking for material related to os
 ZCZC W04 15 L06 GSGS related: looking for solutions to problems related to os
 ZCZC W05 20 L22 Quiz
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 30 L06 os05 slide related
+ZCZC W05 15 L21 Trying something: trying to decrypt tarball file
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 30 L06 GSGS related: looking for solutions to problems related to os
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 30 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 20 L13 Assignment #03

@@ -90,5 +90,5 @@ ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 30 L06 GSGS related: looking for solutions to problems related to os
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 30 L11 Assignment #01
-ZCZC W05 30 L12 Assignment #02
+ZCZC W05 45 L12 Assignment #02
 ZCZC W05 20 L13 Assignment #03

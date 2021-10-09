@@ -1,7 +1,7 @@
 # Hello, Welcome to My GitHub Page! 😄
 
 
-| [Home](https://mutiarazzahra.github.io/os212/) | [GH](https://github.com/mutiarazzahra) | [Log](https://mutiarazzahra.github.io/os212/TXT/mylog.txt) | [Links](https://mutiarazzahra.github.io/os212/LINKS/) | [Rank](https://mutiarazzahra.github.io/os212/TXT/myrank.txt)
+| [Home](https://mutiarazzahra.github.io/os212/) | [GH](https://github.com/mutiarazzahra) | [Log](https://mutiarazzahra.github.io/os212/TXT/mylog.txt) | [Links](https://mutiarazzahra.github.io/os212/LINKS/) | [Rank](https://mutiarazzahra.github.io/os212/TXT/myrank.txt) | [TIPS](https://mutiarazzahra.github.io/os212/TIPS/)
 
 <br>
 My name is Mutiara Azzahra or commonly called Tyas.
@@ -12,6 +12,6 @@ Let's learn operating system together!
 
 
 ---
-*© 2021 --- Mutiara Azzahra --- Revised on Thu 30 Sep 2021* 
+*© 2021 --- Mutiara Azzahra --- Updated on Sat 09 Oct 2021* 
 
 

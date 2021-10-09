@@ -1,7 +1,7 @@
 # Hello, Welcome to My GitHub Page! 😄
 
 
-| [Home](https://mutiarazzahra.github.io/os212/) | [GH](https://github.com/mutiarazzahra) | [Log](https://mutiarazzahra.github.io/os212/TXT/mylog.txt) | [Links](https://mutiarazzahra.github.io/os212/LINKS/) | [Rank](https://mutiarazzahra.github.io/os212/TXT/myrank.txt) | [TIPS](https://mutiarazzahra.github.io/os212/TIPS/)
+| [Home](https://mutiarazzahra.github.io/os212/) | [GH](https://github.com/mutiarazzahra) | [Log](https://mutiarazzahra.github.io/os212/TXT/mylog.txt) | [Links](https://mutiarazzahra.github.io/os212/LINKS/) | [Rank](https://mutiarazzahra.github.io/os212/TXT/myrank.txt) | [Tips](https://mutiarazzahra.github.io/os212/TIPS/)
 
 <br>
 My name is Mutiara Azzahra or commonly called Tyas.

@@ -26,5 +26,5 @@ permalink: /LINKS/
 7. [How to Use the Linux top Command](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)<br>
    Sama seperti Website pada nomor 6, Website di atas berisi panduan penggunaan command "top". Namun, menurut saya yang membedakan adalah Website ini penjelasannya lebih singkat    dan lebih banyak disertai gambar. Sehingga lebih nyaman untuk dibaca dan langsung dipraktekkan.
 
-8. [Virtual Memory by David Black-Schaffer](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)<br> 
-   
+8. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)<br> 
+   Link di atas berisi playlist youtube yang menjelaskan tentang virtual memory mulai dari pengenalan. Menurut saya, playlist tersebut sangat bermanfaat untuk ditonton dan dipelajari. Kemudian, durasi tiap videonya juga tidak terlalu panjang, membuat kita tidak bosan menontonnya. Apalagi tiap video tiap materi saling terpisah, membuat kita tidak pusing mencari di menit ke berapa materi yang ingin kita tonton.

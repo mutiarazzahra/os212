@@ -4,4 +4,4 @@ permalink: /TIPS/
 
 # TIPS
 
-Belum ada tips
+Saat ini masih kosong, akan saya update lagi nanti

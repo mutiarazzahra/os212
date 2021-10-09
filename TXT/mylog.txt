@@ -87,8 +87,17 @@ ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05 30 L06 os05 slide related
 ZCZC W05 15 L21 Trying something: trying to decrypt tarball file
 ZCZC W05 10 L01 SCELE/Discord related
-ZCZC W05 30 L06 GSGS related: looking for solutions to problems related to os
+ZCZC W05 30 L06 GSGS related: looking for a solution to read tarball files
+ZCZC W05 20 L06 GSGS related: looking for linux command
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 30 L11 Assignment #01
 ZCZC W05 45 L12 Assignment #02
 ZCZC W05 20 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 05 L16 Assignment #06
+ZCZC W05 10 L17 Assignment #07
+ZCZC W05 15 L18 Assignment #08
+ZCZC W05 07 L19 Assignment #09
+ZCZC W05 45 L70 Studying for other courses
+ZCZC W05 30 L83 Pets: feeding, playing

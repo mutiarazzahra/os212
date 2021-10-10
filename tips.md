@@ -4,4 +4,6 @@ permalink: /TIPS/
 
 # TIPS
 
-Saat ini masih kosong, akan saya update lagi nanti
+Kumpulan tips perkuliahan Sistem Operasi
+
+1. Backup Virtual Guest setiap minggunya agar jika terjadi hal-hal yang tidak diinginkan, kita masih memiliki backupannya.

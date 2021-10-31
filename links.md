@@ -28,3 +28,12 @@ permalink: /LINKS/
 
 8. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)<br> 
    Link di atas berisi playlist youtube yang menjelaskan tentang virtual memory mulai dari pengenalan. Menurut saya, playlist tersebut sangat bermanfaat untuk ditonton dan dipelajari. Kemudian, durasi tiap videonya juga tidak terlalu panjang, membuat kita tidak bosan menontonnya. Apalagi tiap video tiap materi saling terpisah, membuat kita tidak pusing mencari di menit ke berapa materi yang ingin kita tonton.
+   
+9. [Understanding fork() system call for new process creation](https://youtu.be/PwxTbksJ2fo)<br>
+    Link di atas merupakan video tentang penjelasan mengenai konsep dari fungsi fork(). Menurut saya, penjelasan pada video tersebut mudah dimengerti karena disertai dengan ilustrasi pemanggilan fungsi fork() itu sendiri.
+    
+10. [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY)<br>
+     Link di atas merupakan video yang menjelaskan fork() juga sama seperti link sebelumnya. Namun yang membedakan, video pada link di atas disertai dengan demo kodenya dan ada penjelasan tambahan mengenai fungsi exec(). Menurut saya, demo pada video ini membantu kita untuk mengetahui implementasi fork() serta mengetahui prosesnya saat dijalankan.
+     
+11. [Process IDs in C](https://youtu.be/PZrQ4eGm-hM)<br>
+     Video pada link di atas memberikan penjelasan lebih lanjut mengenai getpid() dan getppid(). Dengan disertai demo kode, menurut saya video tersebut sangat membantu untuk memperdalam konsep process ID. 

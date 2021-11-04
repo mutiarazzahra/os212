@@ -119,3 +119,8 @@ ZCZC W06 07 L19 Assignment #09
 ZCZC W06 50 L32 YouTube: study about os related to w06
 ZCZC W06 30 L83 Pets: feeding, playing
 ZCZC W06 40 L82 Reading Online Book
+ZCZC W07 20 L22 Quiz
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 20 L06 os07 slide related
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 15 L03 GitHub related

@@ -124,3 +124,15 @@ ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 20 L06 os07 slide related
 ZCZC W07 30 L01 SCELE/Discord related
 ZCZC W07 15 L03 GitHub related
+ZCZC W07 40 L32 YouTube: study about os related to W07
+ZCZC W07 20 L11 Assignment #01
+ZCZC W07 45 L12 Assignment #02
+ZCZC W07 70 L13 Assignment #03
+ZCZC W07 60 L14 Assignment #04
+ZCZC W07 30 L15 Assignment #05
+ZCZC W07 05 L16 Assignment #06
+ZCZC W07 15 L17 Assignment #07
+ZCZC W07 15 L18 Assignment #08
+ZCZC W07 07 L19 Assignment #09
+ZCZC W07 30 L27 Decrypt my tarball
+ZCZC W07 10 L28 SSH access

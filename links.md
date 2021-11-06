@@ -37,3 +37,12 @@ permalink: /LINKS/
      
 11. [Process IDs in C](https://youtu.be/PZrQ4eGm-hM)<br>
      Video pada link di atas memberikan penjelasan lebih lanjut mengenai getpid() dan getppid(). Dengan disertai demo kode, menurut saya video tersebut sangat membantu untuk memperdalam konsep process ID. 
+
+12. [Difference Between Process and Thread](https://youtu.be/O3EyzlZxx3g)<br>
+    Video pada link di atas merupakan video dari Udacity yang menjelaskan tentang perbedaan process dan threads. Video tersebut dilengkapi dengan ilustrasi gambar yang memudahkan penonton memahami apa yang sedang dijelaskan. Menurut saya, video ini bagus untuk mengetahui konsep process maupun threads.
+    
+13. [Operating System Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
+    Link di atas merupakan playlist tentang sistem operasi dari Neso Academy. Pada playlist tersebut, ada bermacam-macam video mulai dari penjelasan umum tentang sistem operasi hingga penjelasan materi yang detail. Menurut saya, playlist tersebut sangat membantu dalam perkuliahan sistem operasi.
+    
+14. [Deadlock in Operating Sytem](https://youtu.be/rWFH6PLOIEI)<br>
+    Video pada link tersebut menjelaskan tentang konsep Deadlock serta kondisi-kondisi Deadlock. Menurut saya, video tersebut mudah diikuti penjelasannya.

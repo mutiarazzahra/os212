@@ -46,3 +46,6 @@ permalink: /LINKS/
     
 14. [Deadlock in Operating Sytem](https://youtu.be/rWFH6PLOIEI)<br>
     Video pada link tersebut menjelaskan tentang konsep Deadlock serta kondisi-kondisi Deadlock. Menurut saya, video tersebut mudah diikuti penjelasannya.
+ 
+15. [How to compile Linux From Scratch 11.0](https://youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+    Link di atas merupakan playlist youtube yang berisi tutorial atau langkah-langkah dalam meng-compile Linux From Scratch 11.0. Menurut saya, playlist tersebut sangat membantu dalam pengerjaan assignment week 08 ini, karena tutorial yang disampaikan sangat jelas.

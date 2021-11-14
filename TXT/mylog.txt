@@ -136,3 +136,21 @@ ZCZC W07 15 L18 Assignment #08
 ZCZC W07 07 L19 Assignment #09
 ZCZC W07 30 L27 Decrypt my tarball
 ZCZC W07 10 L28 SSH access
+ZCZC W08 20 L22 Quiz
+ZCZC W08 10 L28 SSH access
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 20 L06 os08 slide related
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 15 L03 GitHub related
+ZCZC W08 40 L32 YouTube: study about os related to W08
+ZCZC W08 20 L06 GSGS related: looking for sources related to W08 material
+ZCZC W08 20 L11 Assignment #01
+ZCZC W08 40 L12 Assignment #02
+ZCZC W08 40 L13 Assignment #03
+ZCZC W08 120 L14 Assignment #04
+ZCZC W08 300 L15 Assignment #05
+ZCZC W08 15 L16 Assignment #06
+ZCZC W08 05 L17 Assignment #07
+ZCZC W08 20 L18 Assignment #08
+ZCZC W08 20 L19 Assignment #09
+ZCZC W08 15 L20 Assignment #10

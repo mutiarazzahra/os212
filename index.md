@@ -12,6 +12,6 @@ Let's learn operating system together!
 
 
 ---
-*© 2021 --- Mutiara Azzahra --- Updated on Sat 06 Nov 2021* 
+*© 2021 --- Mutiara Azzahra ---* 
 
 

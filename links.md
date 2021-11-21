@@ -49,3 +49,9 @@ permalink: /LINKS/
  
 15. [How to compile Linux From Scratch 11.0](https://youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
     Link di atas merupakan playlist youtube yang berisi tutorial atau langkah-langkah dalam meng-compile Linux From Scratch 11.0. Menurut saya, playlist tersebut sangat membantu dalam pengerjaan assignment week 08 ini, karena tutorial yang disampaikan sangat jelas.
+    
+16. [What is RAID?](https://youtu.be/U-OCdTeZLac)<br>
+    Link di atas merupakan video mengenai penjelasan tentang RAID. Menurut saya, video tersebut sangat bermanfaat untuk disaksikan karena penjelasannya disertai dengan animasi yang membuat penonton lebih mudah memahami penjelasannya.
+   
+17. [RAID (Video lain)](https://youtu.be/wTcxRObq738)<br>
+    Sama seperti sebelumnya, video pada link di atas menjelaskan tentang RAID. Hanya saja, video ini menjelaskan mulai dari RAID 0, 1, 2, 3, 4, 5, 6, dan 10.

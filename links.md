@@ -54,4 +54,4 @@ permalink: /LINKS/
     Link di atas merupakan video mengenai penjelasan tentang RAID. Menurut saya, video tersebut sangat bermanfaat untuk disaksikan karena penjelasannya disertai dengan animasi yang membuat penonton lebih mudah memahami penjelasannya.
    
 17. [RAID (Video lain)](https://youtu.be/wTcxRObq738)<br>
-    Sama seperti sebelumnya, video pada link di atas menjelaskan tentang RAID. Hanya saja, video ini menjelaskan mulai dari RAID 0, 1, 2, 3, 4, 5, 6, dan 10.
+    Sama seperti sebelumnya, video pada link di atas menjelaskan tentang RAID. Hanya saja, video ini menjelaskan mulai dari RAID 0, 1, 2, 3, 4, 5, 6, sampai 10.

@@ -171,3 +171,20 @@ ZCZC W09 05 L16 Assignment #06
 ZCZC W09 20 L17 Assignment #07
 ZCZC W09 20 L18 Assignment #08
 ZCZC W09 15 L19 Assignment #09
+ZCZC W10 20 L22 Quiz
+ZCZC W10 10 L28 SSH access
+ZCZC W10 100 L02 ZOOM meetings related
+ZCZC W10 25 L01 SCELE/Discord related
+ZCZC W10 30 L03 GitHub related
+ZCZC W10 20 L06 os10 slide related
+ZCZC W10 40 L32 YouTube: study about os related to W10
+ZCZC W10 20 L06 GSGS related: looking for solutions related to W10 assignment problems
+ZCZC W10 15 L11 Assignment #01
+ZCZC W10 30 L12 Assignment #02
+ZCZC W10 40 L13 Assignment #03
+ZCZC W10 450 L14 Assignment #04
+ZCZC W10 10 L15 Assignment #05
+ZCZC W10 05 L16 Assignment #06
+ZCZC W10 25 L17 Assignment #07
+ZCZC W10 20 L18 Assignment #08
+ZCZC W10 15 L19 Assignment #09
